@@ -5,6 +5,7 @@
 ### Server's part 
 
 - [X] Connect users on the server.
+- [ ] Create in-game chat on lobby lists page 
 
 ### Lobby part
 
