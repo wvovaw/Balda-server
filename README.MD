@@ -26,6 +26,7 @@
 ### In game part 
 
 - [X] Toggle a round. The round ends after the players time is up or the player has finished his turn.
+- [ ] Random start word.
 - [X] End the game when all letter blocks are filled. 
 - [X] Remove a player from the queue if he is ~~disconnected (have some problems)~~ or he decided to leave the game.
 - [X] Find the word in the dictionary.
